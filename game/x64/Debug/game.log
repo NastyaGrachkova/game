@@ -1,0 +1,9 @@
+﻿  NetworkServer.cpp
+  server.cpp
+  Создание кода...
+C:\Users\grach\OneDrive\Рабочий стол\с++\game\game\NetworkServer.cpp(175): warning C4715: NetworkServer::sendDedicatedDataPort: значение возвращается не при всех путях выполнения
+C:\Users\grach\OneDrive\Рабочий стол\с++\game\game\NetworkServer.cpp(48): warning C4715: NetworkServer::acceptIncomingConnection: значение возвращается не при всех путях выполнения
+C:\Users\grach\OneDrive\Рабочий стол\с++\game\game\NetworkServer.cpp(106): warning C4715: NetworkServer::receiveClientRegData: значение возвращается не при всех путях выполнения
+C:\Users\grach\OneDrive\Рабочий стол\с++\game\game\NetworkServer.cpp(155): warning C4715: NetworkServer::sendNewClientDataToAll: значение возвращается не при всех путях выполнения
+C:\Users\grach\OneDrive\Рабочий стол\с++\game\game\NetworkServer.cpp(202): warning C4715: NetworkServer::sendConnectedClientsRecords: значение возвращается не при всех путях выполнения
+  game.vcxproj -> C:\Users\grach\OneDrive\Рабочий стол\с++\game\x64\Debug\server.exe

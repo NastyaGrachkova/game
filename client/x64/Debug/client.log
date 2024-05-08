@@ -1,0 +1,8 @@
+﻿  client.cpp
+C:\Users\grach\OneDrive\Рабочий стол\с++\game\client\client.cpp(167,14): warning C4244: инициализация: преобразование "sf::Int64" в "float", возможна потеря данных
+C:\Users\grach\OneDrive\Рабочий стол\с++\game\client\client.cpp(295,33): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\grach\OneDrive\Рабочий стол\с++\game\client\client.cpp(295,25): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  NetworkClient.cpp
+  Создание кода...
+C:\Users\grach\OneDrive\Рабочий стол\с++\game\client\NetworkClient.cpp(45): warning C4715: NetworkClient::registerOnServer: значение возвращается не при всех путях выполнения
+  client.vcxproj -> C:\Users\grach\OneDrive\Рабочий стол\с++\game\x64\Debug\client.exe
